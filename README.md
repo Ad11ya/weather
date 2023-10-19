@@ -1,2 +1,2 @@
 # weather
-my first website. It tells weather of any given location
+my first website. It tells current weather status of any given location
